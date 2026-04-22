@@ -4,10 +4,17 @@
 A sleek and interactive **Car Price Prediction Web Application** built using **Streamlit** and **Machine Learning**.  
 This app predicts the estimated resale price of a car based on user inputs such as fuel type, ownership, transmission, insurance validity, and kilometers driven.
 
-## 🔥 Live Demo
-👉 Add your deployed Streamlit link here
 
----
+## 🎥 App Demo
+
+A working demo GIF of the application has been added to this repository(car prediction.gif) to showcase the complete user flow and live prediction process.
+
+You can view it directly in the repo to see:
+
+- User input process  
+- Price prediction in real-time  
+- Streamlit interface design  
+- Overall app functionality
 
 ## 📌 Features
 
@@ -118,9 +125,4 @@ Aspiring Data Scientist | Machine Learning Enthusiast
 
 
 
-## ⭐ If you like this project
 
-Give it a ⭐ on GitHub!
-
-```
-```
